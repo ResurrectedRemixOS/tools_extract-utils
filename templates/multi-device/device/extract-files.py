@@ -10,7 +10,7 @@ from extract_utils.main import (
 )
 
 namespace_imports = [
-    'vendor/lineage/example',
+    'vendor/rr/example',
 ]
 
 module = ExtractUtilsModule(
